@@ -25,5 +25,6 @@
   <a href="https://www.youtube.com/channel/UCXYBNcwt233v2eu8hbBEZXQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-leite-145824170/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  
+ 👉 <a href='https://www.youtube.com/watch?v=TsaLQAetPLU'>Créditos por esse readme</a> 👈
+ 
   ![Snake animation](https://github.com/V7ctor/V7ctor/blob/output/github-contribution-grid-snake.svg)
