@@ -1,6 +1,6 @@
 ### Olá, Seja Bem vindo ao meu perfil 👋
 
-- 🔭 Iniciante em Programação
+- 🔭 Estudante de Programação
 - 🏘️ Cabrália Paulista/São Paulo
 
  <div>
